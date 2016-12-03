@@ -43,14 +43,14 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Coding Cage - Login & Registration System</title>
+<title>Who's Here - Login & Registration System</title>
 <link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css"  />
 <link rel="stylesheet" href="style.css" type="text/css" />
 </head>
 <body>
 
 <div class="container">
-<center><img src="logo.svg" alt="Mountain View" style="width:304px;height:228px;"></center>
+<center><img src="logo.svg" alt="who-here-login" style="width:304px;height:228px;"></center>
 
  <div id="login-form">
     <form method="post" action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']); ?>" autocomplete="off">
