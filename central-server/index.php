@@ -56,7 +56,7 @@
     <form method="post" action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']); ?>" autocomplete="off">
      <div class="col-md-12">
          <div class="form-group">
-             <h2 class="">Sign In.</h2>
+             <h3 class="">Sign In.</h3>
             </div>
          <div class="form-group">
              <hr />
